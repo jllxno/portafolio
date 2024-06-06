@@ -57,16 +57,16 @@
     justify-content: center;
  }
 
- .title-projects > h3 {
+ .title-projects > h2 {
     text-align: center;
    padding-top: 2rem;
  }
 
  .title-projects > hr{
-    width: 8rem;
+    width: 11.4rem;
     height: 0.1rem ;
     justify-content: center;
-    margin-left: 7.7rem;
+    margin-left: 6.8rem;
    background-color: black;
  }
 
@@ -106,25 +106,58 @@
     flex-direction: column;
  }
 
+ .referencx{
+   width: 100%;
+   
+   background-color:antiquewhite;
+   justify-content: center;
+}
+ 
 
- .reference > hr{
-    width: 8rem;
+ .referencx > hr{
+    width: 11.4rem;
     height: 0.1rem ;
     justify-content: center;
-    margin-left: 7.7rem;
+    margin-left: 6rem;
    background-color: black;
  }
 
- .reference > h2 {
+ .referencx > h2 {
     text-align: center;
    padding-top: 2rem;
  }
+ .reference > p{
+   font-size: 50rem;
+   margin-top: 0.5rem;
+}
 
- .reference{
-    width: 100%;
-    
-    background-color:antiquewhite;
-    justify-content: center;
- }
+
+.reference-1{
+  font-size: 19px; 
+  margin-top: 2rem;
+  border: solid 2.5px;
+  justify-content: center;
+  display: flex;
+  margin-left: 3.5rem;
+  flex-wrap: wrap;
+  background-color:  rgb(253, 188, 76);;
+  width: 17rem;
+}
+
+.experiences > h2 {
+   text-align: center;
+  padding-top: 2rem;
+}
+.experiences > hr{
+   width: 11.4rem;
+   height: 0.1rem ;
+   justify-content: center;
+   margin-left: 6rem;
+  background-color: black;
+}
+
+
+
+ 
  
  
